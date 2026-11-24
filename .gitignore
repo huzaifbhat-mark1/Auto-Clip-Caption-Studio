@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+uploads/
+outputs/
+captions.ass
+test.mp4
+viral_clip.mp4
